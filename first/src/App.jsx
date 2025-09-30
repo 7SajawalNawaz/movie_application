@@ -4,7 +4,7 @@ import Search from "./components/Search";
 import LoadingSpinner from "./components/LoadingSpinner";
 import MovieCard from "./components/MovieCard";
 import Footer from "./components/Footer";
-import { getSearchTrending, updateSearchId } from "./appWrite";
+import { getSearchTrending, updateSearchId } from "./appwrite";
 
 const API_BASE_URL = "https://api.themoviedb.org/3";
 
