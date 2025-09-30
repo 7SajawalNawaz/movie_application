@@ -99,7 +99,7 @@ const App = () => {
         
       <div className="wrapper">
         <header>
-          <img src="./logo.svg" alt="Movie Trello Logo" className="h-16 w-16" />
+          <img src="./logo.svg" alt="Movie Trello Logo" className="h-14 w-14" />
           <img src="./hero.png" alt="Hero Banner" />
           <h1>
             Find <span className="text-gradient">Movies</span> You’ll Love
